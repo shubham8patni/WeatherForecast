@@ -1,3 +1,30 @@
+#  WeatherForecast Mobile web app
+
+Utilizes OpenWeather API to display weather forecast from around the world.
+
+# Default View
+
+<img src="readmeimg/wtfc1.JPG" width="360px" heigth="640px" >
+
+# Two Different themes 
+
+# Cold
+
+This background theme activates when the searched city/place has temperature below 17 degree celcius.
+
+<img src="readmeimg/wtfc2.JPG" width="360px" heigth="640px" >
+
+# Hot
+
+This background theme activates when the searched city/place has temperature above 17 degree celcius.
+
+<img src="readmeimg/wtfc3.JPG" width="360px" heigth="640px" >
+
+#  Searchbar
+
+<img src="readmeimg/wtfc4.JPG" width="360px" heigth="640px" >
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
